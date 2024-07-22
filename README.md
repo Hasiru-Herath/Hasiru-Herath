@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasiru Herath</h1>
+<h1 align="center">Hi 👋, I'm Hasiru Herath</h1><br>
 <h2 align="center">A passionate Software Developer from Sri Lanka</h2>
 
 <p align="center">
